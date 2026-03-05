@@ -1,8 +1,3 @@
-Here is your **updated professional `README.md`** with your LinkedIn added and formatted properly for GitHub.
-
-You can paste this directly into your `README.md`.
-
----
 
 # 📦 MySQL Docker Setup
 
