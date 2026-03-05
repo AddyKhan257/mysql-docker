@@ -44,7 +44,7 @@ mysql-docker
 Run the following command to build the MySQL Docker image:
 
 ```bash
-docker build -t mysql-custom .
+docker build -t mysql-cont .
 ```
 
 ---
@@ -56,7 +56,7 @@ docker run -d \
 -p 3306:3306 \
 -e MYSQL_ROOT_PASSWORD=rootpassword \
 --name mysql-container \
-mysql-custom
+mysql-cont
 ```
 
 ---
